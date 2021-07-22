@@ -21,7 +21,7 @@ To make this project you need:
 - 4 buttons
 - 1 switch button 
 
-
+Schemes in PICs folder in jpg and fritzing format
 
 Русская секция
 
@@ -29,3 +29,5 @@ To make this project you need:
 3 режима работы - пульт, консоль и выбор персонажей (для поколения 8-9 LW) 
 В основное меню можно прошить последовательное исполнение команд (разделять команды *)
 То же самое можно сделать в консоли.
+
+Схема сборки, фото и видео работы в папке PICs 
