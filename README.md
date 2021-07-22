@@ -22,6 +22,7 @@ To make this project you need:
 - 1 switch button 
 
 Schemes in PICs folder in jpg and fritzing format
+All improvements to software or hardware are acceptable.
 
 Русская секция
 
@@ -31,3 +32,4 @@ Schemes in PICs folder in jpg and fritzing format
 То же самое можно сделать в консоли.
 
 Схема сборки, фото и видео работы в папке PICs 
+Любые изменения в схеме улучшающие ее работу принимаются.
